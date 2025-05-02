@@ -1,5 +1,5 @@
 # ContactBook with Login
-Login-secured Django contact vault—zero-bloat CRUD.
+Login-secured Django contact book -- CRUD.
 
 A simple Django app to manage personal contacts with authentication.
 
