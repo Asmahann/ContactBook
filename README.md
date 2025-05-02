@@ -16,5 +16,5 @@ A simple Django app to manage personal contacts with authentication.
 - After login, you can add, edit, delete your own contacts.
 
 ### Optional
-- Search contacts by name or email via the search bar.
+- Search contacts by name or email or even address via the search bar.
 
